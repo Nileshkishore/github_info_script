@@ -1,0 +1,22 @@
+{'message': 'Requires authentication', 'documentation_url': 'https://docs.github.com/rest/users/users#get-the-authenticated-user', 'status': '401'}
+Repository Name: github_info_script
+Description: None
+URL: https://github.com/Nileshkishore/github_info_script
+Created At: 2024-04-03T11:20:18Z
+Last Updated: 2025-01-07T12:27:36Z
+Stars: 0
+Forks: 0
+Open Issues: 0
+Language: Python
+
+Latest Commit Time: 2025-01-07T12:27:13Z
+Latest Commit Message: Create github_script.py
+Committer Name: GitHub
+
+Branches:
+- main
+
+Contributors:
+- Nileshkishore (Contributions: 4)
+
+There are recent changes in the GitHub repository! (2025-01-07 12:27:13+00:00)
