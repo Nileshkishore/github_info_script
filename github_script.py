@@ -1,4 +1,4 @@
-
+### info.txt for its out put if run as python github_script.py > info.txt
 import requests
 import json
 from datetime import datetime, timedelta, timezone
